@@ -5,11 +5,35 @@
 
 </head>
 <body>
-	<h1> This is the primary heading</h1>
-	<h2> This is the second heading</h2>
-	<h3> And the third heading</h3>
+	<main>
+		<article>
 
-	<img src = "https://share.google/images/1ekG11NcB90NSDXaC"see the photo>
+	                <h1> This is the primary heading</h1>
+	                <h2> This is the second heading</h2>
+	                <h3> And the third heading</h3>
 
-	<a href = "tweets.html">embedded tweet</a>
+	                <img src = "https://share.google/images/1ekG11NcB90NSDXaC"see the photo>
+
+	                <a href = "tweets.html">embedded tweet</a>
+		</article>
+		<aside>
+			<p placeholder to add comment thread later
+			</p>
+		</aside>
+	</main>
+
+<header>
+
+	<li> link to tweets page
+
+	     <ul><a href = "tweets.html" > link</a>
+	     </ul>
+	 </li>
+</header>
+<footer>
+	<p Made by <MEGHAN> - <a href="<index.hmtl>" target="_blank">here</a>
+	</p>
+</footer>
+
 </body>
+</html>
